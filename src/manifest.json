@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+
+	"name": "doc-viewer",
+	"description": "Open .doc and .ppt links with Google Doc Viewer",
+	"version": "1.0",
+
+	"background": {
+		"scripts": ["background.js"]
+	},
+
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"*://*/*"
+	]
+}
+
