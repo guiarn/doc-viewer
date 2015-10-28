@@ -1,2 +1,9 @@
-# doc-viewer-extension
-Chrome extension to automatically open .doc and .ppt files into Google Doc's Viewer
+doc-viewer
+==========
+
+Chrome extension to automatically redirect to 
+
+	https://docs.google.com/viewer?url={$URL}.{$filetype}
+
+when .doc, .ppt, .xls files are accessed.
+
