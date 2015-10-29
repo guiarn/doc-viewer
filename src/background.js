@@ -1,9 +1,5 @@
 var URLStorage;
 
-function endsWith(str, suffix) {
-	return str.indexOf(suffix, str.length - suffix.length) !== -1;
-}
-
 function interceptRequest(request)
 {
 	if (request && request.url) {
