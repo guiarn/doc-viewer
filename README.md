@@ -9,8 +9,8 @@ when .doc, .ppt or .xls files are accessed.
 
 ###Installing
 
-Download the .crx (chrome extension) file from github:
+Download the .crx (chrome extension) file from the [reposiory](https://github.com/Gan0k/doc-viewer/raw/master/crx/doc-viewer.crx):
 
-	https://github.com/Gan0k/doc-viewer/raw/master/crx/doc-viewer.crx
-
-and drag and drop it onto the *chrome://extensions/* page.
+https://github.com/Gan0k/doc-viewer/raw/master/crx/doc-viewer.crx
+	
+and drag and drop it onto the ```chrome://extensions/``` page.
