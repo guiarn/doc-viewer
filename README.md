@@ -9,7 +9,7 @@ when .doc, .ppt or .xls files are accessed.
 
 ###Installing
 
-Download the .crx (chrome extension) file from the [reposiory](https://github.com/Gan0k/doc-viewer/raw/master/crx/doc-viewer.crx):
+Download the .crx (chrome extension) file from this link:
 
 https://github.com/Gan0k/doc-viewer/raw/master/crx/doc-viewer.crx
 	
