@@ -1,5 +1,3 @@
-var URLStorage;
-
 function interceptRequest(request)
 {
 	if (request && request.url) {
